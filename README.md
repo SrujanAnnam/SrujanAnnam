@@ -26,6 +26,7 @@ Hi I am Srujan Annam, a 22 year old Web developer living in Hyderabad, India. I 
 </p>  
 <br>
 <p aligh="left">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanAnnam&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8">
  </P>
 <br>
 <img  align="left" alt="GIF" src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/Lvoe.gif" height="140" width="200">
