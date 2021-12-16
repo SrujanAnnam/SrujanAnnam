@@ -30,7 +30,7 @@ Hi I am Srujan Annam, a 22 year old Web developer living in Hyderabad, India. I 
  </P>
 <br>
 <img  align="left" alt="GIF" src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/Lvoe.gif" height="140" width="200">
-<p>
+<p align="left">
   <h3>Connect with me:</h3>
   <a href="https://twitter.com/itsh_srujan" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> 
   <a href="https://www.linkedin.com/in/srujan-annam-a73210189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
