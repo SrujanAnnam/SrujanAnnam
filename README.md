@@ -1,5 +1,5 @@
-<img alt="GIF"  src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/head.gif">
-<h1 align="center">Hi , I'm Srujan Annam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img alt="GIF"  src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/headd.gif">
+<h1 align="center">Hi, I'm Srujan Annam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/code.gif"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -8,9 +8,9 @@
 Hi I am Srujan Annam, a 22 year old Web developer living in Hyderabad, India. I am a Computer Science Engineer.just connect with me on LinkedIn, Instagarm, Facebook. I am always excited to built and develop websites.</P>
 <img align="right" alt="GIF" src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/coding.gif" width="408" height="318" />
 <br>
-<h3 align="left"><img src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/stress.gif" align="center"
-                width="28" />Languages and Tools:</h3>
-<p align="left">     
+<summary><h2><img src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/stress.gif" align="center"
+                width="28" /> Languages and Tools:</h2></summary>
+<p align="center">     
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -25,17 +25,20 @@ Hi I am Srujan Annam, a 22 year old Web developer living in Hyderabad, India. I 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>  
 <br>
-<p aligh="left">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanAnnam&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8">
  </P>
 <br>
-<img  align="left" alt="GIF" src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/Lvoe.gif" height="140" width="200">
-<p align="right">
-  <h3>Connect with me:</h3>
-  <a href="https://twitter.com/itsh_srujan" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="20" width="30" /></a> 
-  <a href="https://www.linkedin.com/in/srujan-annam-a73210189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="30" /></a>
-  <a href="https://www.facebook.com/srujan.ram.79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="20" width="30" /></a>
-  <a href="https://www.instagram.com/itsh_srujan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="30" /></a>
-  <a href="mailto:srujanram5299@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="20" width="30" /></a>
-</p>
+<summary><h2><img src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/pikachu_wave.gif" align="center"
+                width="28" /> To connect with me</h2></summary>
+
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://srujanannam.000webhostapp.com//)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/itsh_srujan/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/srujan-annam-a73210189/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/itsh_srujan/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/srujan.ram.79/) 
+
+
 
