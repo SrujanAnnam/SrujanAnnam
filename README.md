@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img  alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="408" height="318"></P>
 <p align="center">
-Hi I am Srujan Annam, a 22 year old Web developer living in Hyderabad, India. I am a Computer Science Engineer.just connect with me on LinkedIn, Instagarm, Facebook. I am always excited to built and develop websites.</P>
+Hi I am Srujan Annam, a 24 year old Web developer living in Hyderabad, India. I am a Computer Science Engineer.just connect with me on LinkedIn, Instagarm, Facebook. I am always excited to built and develop websites.</P>
 <img align="right" alt="GIF" src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/coding.gif" width="408" height="318" />
 <br>
 <summary><h2><img src="https://github.com/SrujanAnnam/SrujanAnnam/blob/main/styles/stress.gif" align="center"
